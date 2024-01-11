@@ -1,0 +1,22 @@
+{
+  "name": "js-promptpay-qrcode-modify",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Welcome back, TTKNPDE-V\"",
+    "start": "node display.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "promptpay-qr": "^0.5.0",
+    "qrcode": "^1.5.3",
+    "winston": "^3.11.0"
+  }
+}
